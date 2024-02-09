@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfizia
 - 👀 I’m interested in OpenSource, Linux, Mainframe and Hybrid-Systems
-- 🌱 I’m currently learning Python, Angular and Cloud Technologies
+- 🌱 I’m currently learning Rust, Python, Angular and Cloud Technologies
 
 <!---
 mfizia/mfizia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
